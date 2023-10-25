@@ -1,0 +1,71 @@
+
+body{
+    background-color: whitesmoke;
+    margin-left: 65px;
+    margin-top: 50px;
+    margin-right: 65px;
+    
+
+    }
+    .po{
+        font-family: Arial;
+        text-align: justify;
+    }
+    .atk{
+        font-family: Arial;
+        text-align: justify;
+    }
+    .v{
+        font-family:'Times New Roman';
+        font-weight: bold;
+        text-align: justify;
+    }
+    .bolu{
+        font-family: arial;
+    }
+    .tnb{
+        font-family: Arial;
+        text-align: justify;
+    }
+    .jml{
+        font-family:'Times New Roman';
+        font-weight: bold;
+    }
+    .img-1{
+      float: right;
+      margin: 20px;
+      margin-right:5px;
+      padding: 10px;
+      height: 40rem;
+      border-radius: 20rem;
+      margin-top: 3px;
+    }
+    h3{
+      font-family: Georgia;
+      font-size: 20px;
+      
+    }
+    .wha{
+        background-color: white;
+
+    }
+    :any-link{
+        text-decoration: none;
+        color: green;
+        font-weight: bold;
+        font-family: arial;
+    }
+    .img-2{
+      width: 65px;
+    }
+    .intro-1{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 40px;
+    }
+    .p-2{
+      font-family: Arial;
+    }
+    .b1{
+        font-family:'Times New Roman';
+        font-weight: bold;
+    }
